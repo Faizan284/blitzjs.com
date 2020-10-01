@@ -22,9 +22,9 @@ This command starts a local development server and open up a browser window. Mos
 
 The `main` branch is automatically deployed to https://blitzjs.com
 
-## Language Translations
+## Language Translation
 
-We're setting up this repo to support language translations as soon as folks step up to do so. We plan to follow the same process as the reactjs.com translations.
+We're setting up this repo to support language translation as soon as folks step up to do so. We plan to follow the same process as the reactjs.com translations.
 
 ## Versioning
 
